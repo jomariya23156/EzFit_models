@@ -1,0 +1,9 @@
+.ipynb_checkpoints/
+Video-Swin-Transformer/
+objective_test_videos/
+saved*/
+output*/
+Logs/
+final_models/
+*videos/
+*.txt
