@@ -7,3 +7,4 @@ Logs/
 final_models/
 *videos/
 *.txt
+*vid*/
